@@ -1,3 +1,8 @@
+<p align='center'>
+<a href="https://www.linkedin.com/in/douggoncalvesdev/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+</p>
+
+
 ### Hi there 👋
 
 <!--
