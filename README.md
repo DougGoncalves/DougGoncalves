@@ -5,7 +5,7 @@
 
 <h2 align="center">Hi there! My name is Doug Gonçalves 👋</h2>
 
-<p align="center">I'm a Full Stack Web Developer, Graphic Designer with years of experience on Digital Marketing and Social Media from São Paulo, Brazil.
+<p align="center">I'm a Full Stack Web Developer, Graphic Designer with years of experience in Digital Marketing and Social Media from São Paulo, Brazil.
 I'm also currently enrolled in the Full Stack, Microservices, Cloud and IOT MBA program at FIAP.
 When I'm not developing and building things, you can find me on Youtube learning, reading some historical fiction books, playing guitar or planning my next travel 🌴✈️</p>
 
