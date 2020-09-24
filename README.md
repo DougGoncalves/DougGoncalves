@@ -24,7 +24,7 @@ When I'm not developing and building things, you can find me on Youtube learning
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/DougGoncalves/DougGoncalves">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DougGoncalves&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=3393FF&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DougGoncalves&title_color=ffffff&text_color=c9cacc&icon_color=3393FF&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/DougGoncalves/DougGoncalves">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=DougGoncalves&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=3393FF&bg_color=1d1f21" alt="Doug's GitHub Stats" />
