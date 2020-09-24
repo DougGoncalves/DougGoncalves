@@ -10,7 +10,9 @@ I'm also currently enrolled in the Full Stack, Microservices, Cloud and IOT MBA 
 When I'm not developing and building things, you can find me on Youtube learning, reading some historical fiction books, playing guitar or planning my next travel 🌴✈️</p>
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=ios&logoColor=white&color=3393FF)
+![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=ios&logoColor=white&color=3393FF)
+![](https://img.shields.io/badge/Code-Html-informational?style=flat&logo=html&logoColor=white&color=3393FF)
+![](https://img.shields.io/badge/Code-Css-informational?style=flat&logo=css&logoColor=white&color=3393FF)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=3393FF)
 ![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=3393FF)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=3393FF)
